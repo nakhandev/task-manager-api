@@ -28,7 +28,7 @@ A REST API for managing personal tasks, similar to Todoist, built with Spring Bo
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nakhandev/task-manager-api.git
    cd task-manager-api
    ```
 
